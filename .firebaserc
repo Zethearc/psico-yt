@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "psico-yt"
+  },
+  "targets": {
+    "psico-yt": {
+      "hosting": {
+        "psico-yt": [
+          "psico-yt"
+        ]
+      }
+    }
+  }
+}
