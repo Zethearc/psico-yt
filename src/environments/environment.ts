@@ -1,12 +1,10 @@
 export const environment = {
   firebase: {
-    projectId: 'psico-yt',
-    appId: '1:259317905216:web:55ea9ae2f358fe6312eca5',
-    databaseURL: 'https://psico-yt-default-rtdb.firebaseio.com',
-    storageBucket: 'psico-yt.appspot.com',
-    apiKey: 'AIzaSyAwsbrgDIvjvxAF1DNrQ51lXra0Vt3HOR0',
-    authDomain: 'psico-yt.firebaseapp.com',
-    messagingSenderId: '259317905216',
-    measurementId: 'G-87G2R68LMR',
+    projectId: 'psico-yt-auth2',
+    appId: '1:507766739702:web:6c2b2f8e766de143d452d7',
+    storageBucket: 'psico-yt-auth2.appspot.com',
+    apiKey: 'AIzaSyBQPP4_8RWujquZBdwyC97Mam1_DsnP2nY',
+    authDomain: 'psico-yt-auth2.firebaseapp.com',
+    messagingSenderId: '507766739702',
   },
 };
