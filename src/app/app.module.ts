@@ -8,10 +8,12 @@ import { environment } from '../environments/environment';
 import { provideAuth,getAuth } from '@angular/fire/auth';
 import { provideDatabase,getDatabase } from '@angular/fire/database';
 import { provideFirestore,getFirestore } from '@angular/fire/firestore';
+import { ComponentFooterComponent } from './component-footer/component-footer.component';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    ComponentFooterComponent
   ],
   imports: [
     BrowserModule,
